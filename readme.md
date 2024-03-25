@@ -1,4 +1,14 @@
-# 【i18nglish】自动i18n！
+# 关于 js 版本的使用方法
+
+直接在你的网页 head 加入下面这句代码即可
+
+```html
+<script src="https://raw.githubusercontent.com/Yanren1225/i7h-js/slave/i7h.py"></script>
+```
+
+或者你也可以下载到本地用相对路径引入
+
+# 【i18nglish】自动i18n
 
 大家在工作中有经常遇到i18n这个单词吗？
 
@@ -7,7 +17,6 @@ i18n是internationalization的缩写，i和n是它的首尾字母，18则是中�
 嗯……所以是谁发明的这个缩写？烂死了！我要把所有单词都变成i18n的，让他看看我的厉害！
 
 好，就叫做i18nglish好了！
-
 
 ## 使用效果
 
@@ -33,7 +42,6 @@ t5t A3e `w5t p6s or c10n?'
 
 怎么样，是不是看起来更加i18n了？
 
-
 ## 使用方法
 
 首先你要有一个Python。
@@ -46,7 +54,6 @@ def i18n(s: str) -> str:
 ```
 
 输入一个字符串，就可以把它i18n啦！
-
 
 ## 结束
 
