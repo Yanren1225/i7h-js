@@ -3,7 +3,7 @@
 直接在你的网页 head 加入下面这句代码即可
 
 ```html
-<script src="https://raw.githubusercontent.com/Yanren1225/i7h-js/slave/i7h.py"></script>
+<script src="https://cdn.jsdelivr.net/gh/Yanren1225/i7h-js/i7h.js"></script>
 ```
 
 或者你也可以下载到本地用相对路径引入
